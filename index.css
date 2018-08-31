@@ -1,0 +1,45 @@
+header {
+    background-color: slateblue;
+}
+
+body {
+    background-color: slateblue;
+}
+img {
+    width: 15%;
+    float: left;
+    background-color: steelblue;
+}
+
+nav {
+    float: right;
+    background-color: slateblue;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+    padding-right: 70px;
+    text-align: center;
+}
+
+nav a {
+    color: aliceblue;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: lightsteelblue;
+}
+
+a:visited {
+    color:antiquewhite;
+}
